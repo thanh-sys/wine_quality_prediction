@@ -4,7 +4,7 @@ Predicting the quality of red wine using machine learning models trained on phys
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project develops regression and classification models to predict red wine quality based on chemical characteristics. The regression task predicts wine quality scores , while the classification task categorizes wines as "Good" (7-8) or "Bad" (3-6).
 
@@ -18,7 +18,7 @@ This project develops regression and classification models to predict red wine q
 
 ---
 
-# 🔬 Exploratory Data Analysis (EDA)
+#  Exploratory Data Analysis (EDA)
 
 - **Key Findings**:
   - **Alcohol** has the strongest positive correlation with quality.
@@ -33,7 +33,7 @@ This project develops regression and classification models to predict red wine q
   - Quality distribution: ![image](https://github.com/user-attachments/assets/51aa9981-392a-4c5f-ab54-ba0fcebbca40)![image](https://github.com/user-attachments/assets/12509ed9-48ab-4d4a-bf7e-44dfe46c26af)
 
 ---
-## 🚀 Models & Results
+##  Models & Results
 
 ### Regression Models
 
@@ -66,7 +66,7 @@ This project develops regression and classification models to predict red wine q
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Python**: Core programming language
 - **pandas**, **numpy**: Data manipulation
